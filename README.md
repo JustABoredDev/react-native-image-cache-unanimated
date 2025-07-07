@@ -1,6 +1,6 @@
 
 > [!WARNING]
-> This is not the original repo, it is not going to be maintained, nor kepr up to date. please use the official version of this library located [here](https://github.com/georstat/react-native-image-cachehttps://github.com/georstat/react-native-image-cache)
+> This is not the original repo, it is not going to be maintained, nor kepr up to date. please use the official version of this library located [here](https://github.com/georstat/react-native-image-cache)
 >
 
 # React Native Image Cache on File System with Progressive Loading
