@@ -1,3 +1,8 @@
+
+> [!WARNING]
+> This is not the original repo, it is not going to be maintained, nor kepr up to date. please use the official version of this library located [here](https://github.com/georstat/react-native-image-cachehttps://github.com/georstat/react-native-image-cache)
+>
+
 # React Native Image Cache on File System with Progressive Loading
 
 [![npm version](https://img.shields.io/npm/v/@georstat/react-native-image-cache.svg?style=for-the-badge)](https://www.npmjs.com/package/@georstat/react-native-image-cache)
